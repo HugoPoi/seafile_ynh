@@ -223,4 +223,4 @@ pip-log.txt
 .kateproject.d
 .directory
 *-swp
-
+.vagrant
